@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title">
+  <title id="title">TQNN Labs</title>
+  <defs>
+    <linearGradient id="tqnn-cyan" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#71f2f2"/>
+      <stop offset="1" stop-color="#00aeea"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="24" fill="#02070b"/>
+  <g fill="none" stroke="url(#tqnn-cyan)" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M19 20h90M19 43h24c13 0 22 10 22 23v37M109 43H85c-13 0-22 10-22 23v37M19 66h18c9 0 15 7 15 15v12M109 66H91c-9 0-15 7-15 15v12M64 43c2-9 9-15 21-16"/>
+    <circle cx="19" cy="20" r="6"/>
+    <circle cx="109" cy="20" r="6"/>
+    <circle cx="19" cy="43" r="5"/>
+    <circle cx="109" cy="43" r="5"/>
+    <circle cx="19" cy="66" r="5"/>
+    <circle cx="109" cy="66" r="5"/>
+    <circle cx="52" cy="103" r="6"/>
+    <circle cx="76" cy="103" r="6"/>
+    <circle cx="64" cy="117" r="6"/>
+  </g>
+</svg>
